@@ -1,0 +1,46 @@
+[13-Nov-2012 03:24:08 UTC] PHP Fatal error:  Call to a member function IsSMTP() on a non-object in /home/isatixor/public_html/ec/3/mail/enviar_correo.php on line 65
+[13-Nov-2012 03:26:20 UTC] PHP Fatal error:  Call to a member function IsSMTP() on a non-object in /home/isatixor/public_html/ec/3/mail/enviar_correo.php on line 62
+[13-Nov-2012 03:27:43 UTC] PHP Fatal error:  Call to a member function IsSMTP() on a non-object in /home/isatixor/public_html/ec/3/mail/enviar_correo.php on line 62
+[13-Nov-2012 03:28:34 UTC] PHP Fatal error:  Call to a member function IsSMTP() on a non-object in /home/isatixor/public_html/ec/3/mail/enviar_correo.php on line 62
+[13-Nov-2012 03:28:42 UTC] PHP Fatal error:  Call to a member function IsSMTP() on a non-object in /home/isatixor/public_html/ec/3/mail/enviar_correo.php on line 62
+[13-Nov-2012 03:30:09 UTC] PHP Fatal error:  Call to a member function IsSMTP() on a non-object in /home/isatixor/public_html/ec/3/mail/enviar_correo.php on line 62
+[13-Nov-2012 03:35:55 UTC] PHP Fatal error:  Call to a member function IsSMTP() on a non-object in /home/isatixor/public_html/ec/3/mail/enviar_correo.php on line 62
+[15-Nov-2012 03:04:32 UTC] PHP Fatal error:  Call to a member function IsSMTP() on a non-object in /home/isatixor/public_html/ec/3/mail/enviar_correo.php on line 9
+[16-Dec-2012 21:39:24 America/Santiago] PHP Warning:  copy(archivos/1544011834-Torrent Downloaded From ExtraTorrent.com.txt) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/isatixor/public_html/ec/final/mail/enviar_correo.php on line 59
+[16-Dec-2012 21:42:08 America/Santiago] PHP Warning:  copy(archivos/2021079481-Torrent Downloaded From ExtraTorrent.com.txt) [<a href='function.copy'>function.copy</a>]: failed to open stream: No such file or directory in /home/isatixor/public_html/ec/final/mail/enviar_correo.php on line 59
+[25-Sep-2015 12:55:01 UTC] PHP Notice:  Undefined index: name in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 12
+[25-Sep-2015 12:55:01 UTC] PHP Notice:  Undefined index: email in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 14
+[25-Sep-2015 12:55:01 UTC] PHP Notice:  Undefined index: phone in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 17
+[25-Sep-2015 12:55:01 UTC] PHP Notice:  Undefined index: message in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 18
+[06-Oct-2015 03:29:24 UTC] PHP Notice:  Undefined index: name in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 12
+[06-Oct-2015 03:29:24 UTC] PHP Notice:  Undefined index: email in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 14
+[06-Oct-2015 03:29:24 UTC] PHP Notice:  Undefined index: phone in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 17
+[06-Oct-2015 03:29:24 UTC] PHP Notice:  Undefined index: message in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 18
+[10-Jan-2016 17:25:55 UTC] PHP Notice:  Undefined index: name in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 12
+[10-Jan-2016 17:25:55 UTC] PHP Notice:  Undefined index: email in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 14
+[10-Jan-2016 17:25:55 UTC] PHP Notice:  Undefined index: phone in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 17
+[10-Jan-2016 17:25:55 UTC] PHP Notice:  Undefined index: message in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 18
+[03-Feb-2016 16:26:28 UTC] PHP Notice:  Undefined index: name in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 12
+[03-Feb-2016 16:26:28 UTC] PHP Notice:  Undefined index: email in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 14
+[03-Feb-2016 16:26:28 UTC] PHP Notice:  Undefined index: phone in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 17
+[03-Feb-2016 16:26:28 UTC] PHP Notice:  Undefined index: message in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 18
+[22-Feb-2016 17:01:01 UTC] PHP Notice:  Undefined index: name in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 12
+[22-Feb-2016 17:01:01 UTC] PHP Notice:  Undefined index: email in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 14
+[22-Feb-2016 17:01:01 UTC] PHP Notice:  Undefined index: phone in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 17
+[22-Feb-2016 17:01:01 UTC] PHP Notice:  Undefined index: message in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 18
+[22-Feb-2016 17:01:02 UTC] PHP Notice:  Undefined index: name in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 12
+[22-Feb-2016 17:01:02 UTC] PHP Notice:  Undefined index: email in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 14
+[22-Feb-2016 17:01:02 UTC] PHP Notice:  Undefined index: phone in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 17
+[22-Feb-2016 17:01:02 UTC] PHP Notice:  Undefined index: message in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 18
+[07-Mar-2016 15:01:28 UTC] PHP Notice:  Undefined index: name in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 12
+[07-Mar-2016 15:01:28 UTC] PHP Notice:  Undefined index: email in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 14
+[07-Mar-2016 15:01:28 UTC] PHP Notice:  Undefined index: phone in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 17
+[07-Mar-2016 15:01:28 UTC] PHP Notice:  Undefined index: message in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 18
+[07-Mar-2016 15:01:28 UTC] PHP Notice:  Undefined index: name in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 12
+[07-Mar-2016 15:01:28 UTC] PHP Notice:  Undefined index: email in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 14
+[07-Mar-2016 15:01:28 UTC] PHP Notice:  Undefined index: phone in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 17
+[07-Mar-2016 15:01:28 UTC] PHP Notice:  Undefined index: message in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 18
+[11-Apr-2016 23:03:21 UTC] PHP Notice:  Undefined index: name in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 12
+[11-Apr-2016 23:03:21 UTC] PHP Notice:  Undefined index: email in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 14
+[11-Apr-2016 23:03:22 UTC] PHP Notice:  Undefined index: phone in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 17
+[11-Apr-2016 23:03:22 UTC] PHP Notice:  Undefined index: message in /home/isatixor/public_html/aguaprana.cl/mail/enviar_correo.php on line 18
